@@ -1,8 +1,8 @@
 {
-  "name": "💃 Queen-Elisa 💃",
+  "name": "🕵🏿‍♂️ 𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃 🕵🏿‍♂️",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "logo": "https://i.ibb.co/2NQ5nbd/drips.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
