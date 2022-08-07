@@ -8,8 +8,8 @@
  ▒█▒█░   ░█░
  ░▀▄▀░   ▄█▄
  
- 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧𝙠 𝙈𝙖𝙠𝙚𝙧 
- 𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 07 / 03 
+ 𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃 𝙈𝘿 𝘽𝙮 𝚉𝙸𝚁𝚆𝙾𝚇 𝙈𝙖𝙠𝙚𝙧 
+ 𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 08 / 07 
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 𝙎𝙘𝙧𝙞𝙥𝙩 𝙁𝙧𝙤 𝙂𝙤𝙟𝙤 𝙎𝙖𝙩𝙤𝙧𝙪
  
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤
@@ -32,26 +32,26 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94756110062'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94756110062'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94756110062'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '𝔾𝕚𝕞𝕙𝕒𝕟 ℝ𝕒𝕤𝕙𝕞𝕚𝕥𝕙𝕒' // Your name ඔබේ නම 
+global.botnma = '🕵🏿‍♂️ 𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃 🕵🏿‍♂️' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = ' 𝔾𝕚𝕞𝕙𝕒𝕟 ℝ𝕒𝕤𝕙𝕞𝕚𝕥𝕙𝕒 ' //ownernama,ownername
+global.packname = '𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃 Sticker' // Sticker package name 
+global.author = '𝚉𝙸𝚁𝚆𝙾𝚇 Maker' // Sticker Autor name 
 global.sessionName = 'session'
-global.prefa = ['#','!','/',''] 
+global.prefa = ['#','!','/'.''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
+global.alivelogo = `https://i.ibb.co/2NQ5nbd/drips.jpg`
+global.alive =`Hello i am 𝚉𝙸𝚁𝚆𝙾𝚇 now
 
 Download song type .yt 
-Thanks fro using...`
+Thanks fro using Zirwox...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 Thanks Fro using 𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃
 ✾ Some bugs fixing
 😼♥️
 `
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃 𝐌𝐃`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
